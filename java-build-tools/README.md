@@ -36,11 +36,3 @@ root@29960ad5f858:/# exit
 
 exit
 ```
-
-## Upload Image
-```
-docker login
-
-docker tag jdk15-mvn-image augike101/java-tools
-docker push augike101/java-tools:latest
-```
