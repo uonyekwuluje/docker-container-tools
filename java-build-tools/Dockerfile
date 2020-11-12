@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-MAINTAINER Augustine Ike <augustineike@gmail.com>
+MAINTAINER Uchechukwu Onyekwuluje <uionyekwuluje@gmail.com>
 
 ENV MAVEN_VERSION=3.6.3
 
