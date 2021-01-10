@@ -34,5 +34,27 @@ Java(TM) SE Runtime Environment (build 15.0.1+9-18)
 Java HotSpot(TM) 64-Bit Server VM (build 15.0.1+9-18, mixed mode, sharing)
 root@29960ad5f858:/# exit
 
-exit
+root@ff82458c6c47:/# gradle --version
+
+Welcome to Gradle 6.7!
+
+Here are the highlights of this release:
+ - File system watching is ready for production use
+ - Declare the version of Java your build requires
+ - Java 15 support
+
+For more details see https://docs.gradle.org/6.7/release-notes.html
+
+------------------------------------------------------------
+Gradle 6.7
+------------------------------------------------------------
+
+Build time:   2020-10-14 16:13:12 UTC
+Revision:     312ba9e0f4f8a02d01854d1ed743b79ed996dfd3
+
+Kotlin:       1.3.72
+Groovy:       2.5.12
+Ant:          Apache Ant(TM) version 1.10.8 compiled on May 10 2020
+JVM:          15.0.1 (Oracle Corporation 15.0.1+9-18)
+OS:           Linux 5.4.0-59-generic amd64
 ```
